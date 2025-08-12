@@ -10,8 +10,7 @@
 
 Hi, I'm Naman Vashishta, a passionate computer science graduate student at NYU with a strong focus on Machine Learning, Computer Vision, and Deep Learning. I enjoy building impactful projects that integrate data-driven approaches and AI solutions to solve real-world challenges.
 
-📍 Based in New York, NY  
-📧 Reach me at nv2375@nyu.edu
+📍 Based in New York, NY 
 
 ---
 
