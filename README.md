@@ -29,28 +29,35 @@ Hi, I'm Naman Vashishta, a passionate computer science graduate student at NYU w
 
 ### 🌟 Highlighted Projects
 
-1. **MusicScape - Big Data & ML Analysis**  
-   - Scalable music analysis pipeline using PySpark and ML algorithms to identify song clusters and generate recommendations.  
-   - Repository: [MusicScape](https://github.com/NamanVashishta/MusicScape---Big-Data-ML-Analysis)
+<details>
+<summary><b>MusicScape - Big Data & ML Analysis</b></summary>
 
-2. **Plant Species Identification via Vision Transformers**  
-   - Multi-label classification system using Vision Transformers and DINOv2 for plant species detection.  
-   - Repository: [PlantCLEF](https://github.com/NamanVashishta/plantclef-quadrat-classification)
+- **What:** An end-to-end pipeline to process the Million Song Database, cluster songs by audio features, and build a recommendation system prototype.
+- **Tech:** PySpark, Scikit-learn, K-Means, PCA, MongoDB, Plotly.
+- **[View Repository &rarr;](https://github.com/NamanVashishta/MusicScape---Big-Data-ML-Analysis)**
 
-3. **RAG System for ROS2 Navigation**  
-   - Retrieval-Augmented Generation system for domain-specific query responses on ROS2 navigation.  
-   - Repository: [RAG System](https://github.com/NamanVashishta/RAG-System-for-ROS2)
+</details>
 
----
+<details>
+<summary><b>Plant Species Identification via Vision Transformers</b></summary>
 
-### 🌱 Currently Learning
+- **What:** A multi-label classification system to identify plant species in complex scenes, built on a custom-generated dataset of over 6,000 synthetic images.
+- **Tech:** PyTorch, Vision Transformers (ViT), DINOv2, Kaggle.
+- **[View Repository &rarr;](https://github.com/NamanVashishta/plantclef-quadrat-classification)**
 
-- Reinforcement Learning for autonomous systems.
-- Advanced Deep Learning architectures (Transformers, GANs).
-- Scalable ML model deployment using Docker and FastAPI.
+</details>
+
+<details>
+<summary><b>RAG System for ROS2 Navigation</b></summary>
+
+- **What:** A full-stack Retrieval-Augmented Generation (RAG) system that provides domain-specific answers about ROS2 navigation by leveraging a fine-tuned LLM and a vector database.
+- **Tech:** RAG, LLM Fine-Tuning, Qdrant, FastAPI, Docker, ClearML.
+- **[View Repository &rarr;](https://github.com/NamanVashishta/RAG-System-for-ROS2)**
+
+</details>
 
 ---
 
 ### 📫 Let's Connect
 
-I'm always open to discussions about AI/ML research, potential collaborations, and innovative projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/naman-vashishta/) or [Email](mailto:nv2375@nyu.edu).
+I'm actively seeking internship and research opportunities in AI/ML and Data Science. If my work resonates with you, I'd love to connect and discuss how I can contribute to your team. Feel free to reach out via [LinkedIn](https://linkedin.com/in/naman-vashishta/) or [Email](mailto:nv2375@nyu.edu).
