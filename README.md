@@ -1,6 +1,6 @@
 # 💻 Naman Vashishta
 
-🚀 MSCS @ NYU | Machine Learning | Computer Vision | Deep Learning | Big Data
+🚀 MSCS @ NYU | AI & Computer Vision | Data Analysis & Visualization
 
 🌐 [LinkedIn](https://linkedin.com/in/naman-vashishta/) | [GitHub](https://github.com/NamanVashishta) | [Email](mailto:nv2375@nyu.edu)
 
